@@ -15,6 +15,6 @@ Drugi znak:
 Trzeci znak:
     E - pomiar energii
     W - brak pomiaru energii
-
+    K - klikajacy w czasie inicjalizacji
 Możliwe inne nazwy:
     THP - moduł pomiaru temperatury, wilgotności i ciśnienia atmosferycznego
